@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm MN MEHEDI</h1>
 <h3 align="center"> full stack web developer | Digital Marketer | </h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h4 align="center">Full Stack Web Development Student at Hablu Programmer</h4>
 
 <div align="center">
 
